@@ -1,0 +1,12 @@
+/Users/kimhyeok/Projects/Csharp/Csharp/bin/Debug/netcoreapp3.1/Csharp.deps.json
+/Users/kimhyeok/Projects/Csharp/Csharp/bin/Debug/netcoreapp3.1/Csharp.runtimeconfig.json
+/Users/kimhyeok/Projects/Csharp/Csharp/bin/Debug/netcoreapp3.1/Csharp.runtimeconfig.dev.json
+/Users/kimhyeok/Projects/Csharp/Csharp/bin/Debug/netcoreapp3.1/Csharp.dll
+/Users/kimhyeok/Projects/Csharp/Csharp/bin/Debug/netcoreapp3.1/Csharp.pdb
+/Users/kimhyeok/Projects/Csharp/Csharp/obj/Debug/netcoreapp3.1/Csharp.csprojAssemblyReference.cache
+/Users/kimhyeok/Projects/Csharp/Csharp/obj/Debug/netcoreapp3.1/Csharp.AssemblyInfoInputs.cache
+/Users/kimhyeok/Projects/Csharp/Csharp/obj/Debug/netcoreapp3.1/Csharp.AssemblyInfo.cs
+/Users/kimhyeok/Projects/Csharp/Csharp/obj/Debug/netcoreapp3.1/Csharp.csproj.CoreCompileInputs.cache
+/Users/kimhyeok/Projects/Csharp/Csharp/obj/Debug/netcoreapp3.1/Csharp.dll
+/Users/kimhyeok/Projects/Csharp/Csharp/obj/Debug/netcoreapp3.1/Csharp.pdb
+/Users/kimhyeok/Projects/Csharp/Csharp/obj/Debug/netcoreapp3.1/Csharp.genruntimeconfig.cache
